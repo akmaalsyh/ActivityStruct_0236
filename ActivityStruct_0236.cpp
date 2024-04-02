@@ -9,3 +9,5 @@ struct DetailAlamat
 
 struct mahasiswa
 
+
+
