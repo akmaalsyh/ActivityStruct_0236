@@ -16,3 +16,5 @@ struct mahasiswa
 };
 
 int main ()
+{
+    mahasiswa mhs[3];
